@@ -1,0 +1,32 @@
+[
+  {
+    "userId": "00",
+    "email": "",
+    "userName": "antoine",
+    "password": "abcde"
+  },
+  {
+    "userId": "DTG 0836 3881",
+    "email": "a",
+    "userName": "a",
+    "password": "a"
+  },
+  {
+    "userId": "UAX 8223 6661",
+    "email": "a",
+    "userName": "a",
+    "password": "a"
+  },
+  {
+    "userId": "MWN 3631 1464",
+    "email": "a",
+    "userName": "a",
+    "password": "a"
+  },
+  {
+    "userId": "LFH 5377 7360",
+    "email": "kymylou@hotmail.fr",
+    "userName": "Kim",
+    "password": "12345"
+  }
+]

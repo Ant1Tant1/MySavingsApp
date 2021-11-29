@@ -1,0 +1,250 @@
+[
+  {
+    "cashflowId": 0,
+    "userId": "00",
+    "typeId": 1,
+    "subtypeId": 1,
+    "value": 500.0,
+    "date": "2021-11-11T12:16:03.6003508-08:00"
+  },
+  {
+    "cashflowId": 1,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 1,
+    "value": 500.0,
+    "date": "2021-11-11T12:16:03.6003508-08:00"
+  },
+  {
+    "cashflowId": 2,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 1,
+    "value": 1000.0,
+    "date": "2021-11-14T00:00:00"
+  },
+  {
+    "cashflowId": 3,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 1,
+    "value": 3500.0,
+    "date": "2021-02-28T00:00:00"
+  },
+  {
+    "cashflowId": 4,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 0,
+    "value": 150.0,
+    "date": "2021-11-16T00:00:00"
+  },
+  {
+    "cashflowId": 5,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 4,
+    "value": 1000.0,
+    "date": "2021-10-16T00:00:00"
+  },
+  {
+    "cashflowId": 7,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 3,
+    "value": 325.0,
+    "date": "2021-11-17T00:00:00"
+  },
+  {
+    "cashflowId": 8,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 1000.0,
+    "date": "2021-11-16T00:00:00"
+  },
+  {
+    "cashflowId": 9,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 1,
+    "value": 200.0,
+    "date": "2021-11-22T00:00:00"
+  },
+  {
+    "cashflowId": 10,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 1000.0,
+    "date": "2021-06-01T00:00:00"
+  },
+  {
+    "cashflowId": 11,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 2,
+    "value": 150.0,
+    "date": "2021-06-03T00:00:00"
+  },
+  {
+    "cashflowId": 12,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 0,
+    "value": 250.0,
+    "date": "2021-06-21T00:00:00"
+  },
+  {
+    "cashflowId": 13,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 1,
+    "value": 2462.0,
+    "date": "2021-05-01T00:00:00"
+  },
+  {
+    "cashflowId": 14,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 2,
+    "value": 1258.0,
+    "date": "2021-03-01T00:00:00"
+  },
+  {
+    "cashflowId": 15,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 0,
+    "value": 1250.0,
+    "date": "2021-04-04T00:00:00"
+  },
+  {
+    "cashflowId": 16,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 1,
+    "value": 552.0,
+    "date": "2021-04-28T00:00:00"
+  },
+  {
+    "cashflowId": 17,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 2,
+    "value": 3500.0,
+    "date": "2021-08-08T00:00:00"
+  },
+  {
+    "cashflowId": 18,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 2,
+    "value": 950.0,
+    "date": "2021-03-03T00:00:00"
+  },
+  {
+    "cashflowId": 19,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 0,
+    "value": 925.0,
+    "date": "2021-02-03T00:00:00"
+  },
+  {
+    "cashflowId": 20,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 1,
+    "value": 1050.0,
+    "date": "2021-11-20T00:00:00"
+  },
+  {
+    "cashflowId": 21,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 3500.0,
+    "date": "2021-09-15T00:00:00"
+  },
+  {
+    "cashflowId": 22,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 2,
+    "value": 1050.0,
+    "date": "2021-03-01T00:00:00"
+  },
+  {
+    "cashflowId": 23,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 0,
+    "value": 1000.0,
+    "date": "2021-09-03T00:00:00"
+  },
+  {
+    "cashflowId": 24,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 1,
+    "value": 1050.0,
+    "date": "2021-09-20T00:00:00"
+  },
+  {
+    "cashflowId": 25,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 3400.0,
+    "date": "2021-06-15T00:00:00"
+  },
+  {
+    "cashflowId": 26,
+    "userId": "Default User ID",
+    "typeId": 2,
+    "subtypeId": 2,
+    "value": 1050.0,
+    "date": "2021-03-01T00:00:00"
+  },
+  {
+    "cashflowId": 27,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 0,
+    "value": 1000.0,
+    "date": "2021-09-03T00:00:00"
+  },
+  {
+    "cashflowId": 28,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 1,
+    "value": 1050.0,
+    "date": "2021-09-20T00:00:00"
+  },
+  {
+    "cashflowId": 29,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 3500.0,
+    "date": "2021-06-15T00:00:00"
+  },
+  {
+    "cashflowId": 30,
+    "userId": "Default User ID",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 3500.0,
+    "date": "2021-01-15T00:00:00"
+  },
+  {
+    "cashflowId": 31,
+    "userId": "Default User ID",
+    "typeId": 1,
+    "subtypeId": 5,
+    "value": 10000.0,
+    "date": "2021-11-25T00:00:00"
+  }
+]

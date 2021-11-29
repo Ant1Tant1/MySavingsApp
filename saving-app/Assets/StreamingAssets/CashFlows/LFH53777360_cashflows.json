@@ -1,0 +1,26 @@
+[
+  {
+    "cashflowId": 0,
+    "userId": "LFH 5377 7360",
+    "typeId": 2,
+    "subtypeId": 0,
+    "value": 150.0,
+    "date": "2021-11-27T00:00:00"
+  },
+  {
+    "cashflowId": 1,
+    "userId": "LFH 5377 7360",
+    "typeId": 0,
+    "subtypeId": 0,
+    "value": 1500.0,
+    "date": "2021-11-27T00:00:00"
+  },
+  {
+    "cashflowId": 2,
+    "userId": "LFH 5377 7360",
+    "typeId": 1,
+    "subtypeId": 0,
+    "value": 350.0,
+    "date": "2021-11-27T00:00:00"
+  }
+]

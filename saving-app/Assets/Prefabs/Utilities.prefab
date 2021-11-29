@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3289530247195148148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3289530247195148145}
+  - component: {fileID: 3289530247195148150}
+  - component: {fileID: 3289530247195148151}
+  m_Layer: 0
+  m_Name: Utilities
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3289530247195148145
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3289530247195148148}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 361.7429, y: 385.4719, z: -1936.5298}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3289530247195148150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3289530247195148148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8890e5ed766f54744a2336fe047568d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &3289530247195148151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3289530247195148148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8db5a9303cef7dc439b813890a470e50, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  earningsColorDark: {r: 0.031313326, g: 0.19935067, b: 0.3490566, a: 1}
+  earningsColorBright: {r: 0.16078432, g: 0.47969353, b: 0.7176471, a: 1}
+  earningsLogo: {fileID: 21300000, guid: 371c401ab9d0b534d8bfff9dc6020f0f, type: 3}
+  expensesColorDark: {r: 0.46226418, g: 0.03664521, b: 0.0022201454, a: 1}
+  expensesColorBright: {r: 0.8867924, g: 0.23941876, b: 0.18831033, a: 0.9882353}
+  expensesLogo: {fileID: 21300000, guid: 21260915108833949a68dfbacdb65d86, type: 3}
+  savingsColorDark: {r: 0, g: 0.23584908, b: 0.07640181, a: 1}
+  savingsColorBright: {r: 0.15901487, g: 0.7169812, b: 0.3419821, a: 1}
+  savingsLogo: {fileID: 21300000, guid: 07a2555301846464aa8f800b76c6ee36, type: 3}

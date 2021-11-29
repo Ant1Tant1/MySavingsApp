@@ -1,2 +1,2 @@
 # MySavingsApp
-An little app to track better your expenses
+An little app to better track your expenses

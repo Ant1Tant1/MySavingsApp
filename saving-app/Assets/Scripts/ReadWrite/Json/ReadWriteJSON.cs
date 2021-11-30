@@ -21,7 +21,13 @@ namespace Scripts.ReadWrite.JSON
         private void SetFilePath(SerializationTypes serializationType)
         {
             string[] pathNames = SetFileName(serializationType);
-            folderPath = Path.Combine(Application.streamingAssetsPath, pathNames[1]);
+
+            if (!Directory.Exists(Application.persistentDataPath))
+            {
+                Directory.CreateDirectory(Application.persistentDataPath);
+            }
+
+            folderPath = Path.Combine(Application.persistentDataPath, pathNames[1]);
 
             // check if directory exist
             if (!Directory.Exists(folderPath))

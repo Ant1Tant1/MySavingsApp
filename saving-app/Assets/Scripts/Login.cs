@@ -12,6 +12,9 @@ public class Login
         // Get infos from user file
         List<Users> users = Engine.ReadList<Users>(SerializationTypes.Users);
 
+        if (users == null)
+            return false;
+
         foreach (Users user in users)
         {
             // check if the couple password / username is right
@@ -31,7 +34,11 @@ public class Login
     {
         // Load infos from user file
         List<Users> users = Engine.ReadList<Users>(SerializationTypes.Users);
-        List<string> ids = new List<string>(users.Select(x => x.userId));
+        List<string> ids = new List<string>();
+        if (users != null)
+            ids = new List<string>(users.Select(x => x.userId));
+        else
+            users = new List<Users>();
 
         // Create new id
         string userId = Users.CreateNewId();
@@ -57,7 +64,11 @@ public class Login
         // save json
         Engine.Save<Users>(users, SerializationTypes.Users);
 
+        // set up engine
+        Engine.UserName = username;
+        Engine.MailAddress = email;
         Engine.UserId = userId;
+
         return true;
     }
 
